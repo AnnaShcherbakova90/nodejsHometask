@@ -1,0 +1,22 @@
+{
+  "name": "nodejshometask",
+  "version": "1.0.0",
+  "description": "test,neto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AnnaShcherbakova90/nodejsHometask.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Anna Shcherbakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaShcherbakova90/nodejsHometask/issues"
+  },
+  "homepage": "https://github.com/AnnaShcherbakova90/nodejsHometask#readme"
+}
