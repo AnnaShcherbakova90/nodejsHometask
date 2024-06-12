@@ -1,22 +1,32 @@
 {
-  "name": "nodejshometask",
-  "version": "1.0.0",
-  "description": "test,neto",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/AnnaShcherbakova90/nodejsHometask.git"
-  },
-  "keywords": [
-    "node"
-  ],
-  "author": "Anna Shcherbakova",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AnnaShcherbakova90/nodejsHometask/issues"
-  },
-  "homepage": "https://github.com/AnnaShcherbakova90/nodejsHometask#readme"
+    "name": "nodejshometask",
+    "version": "1.0.0",
+    "description": "test,neto",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/AnnaShcherbakova90/nodejsHometask.git"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "Anna Shcherbakova",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AnnaShcherbakova90/nodejsHometask/issues"
+    },
+    "homepage": "https://github.com/AnnaShcherbakova90/nodejsHometask#readme",
+    "devDependencies": {
+        "@eslint/js": "^9.4.0",
+        "babel-eslint": "^10.1.0",
+        "eslint": "^9.4.0",
+        "eslint-config-defaults": "^9.0.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.1.3",
+        "globals": "^15.4.0",
+        "prettier": "3.3.1"
+    }
 }
